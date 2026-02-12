@@ -11,15 +11,13 @@ I am a recent cybersecurity graduate with a dedication to solving complex proble
 I have a deep a passion for cybersecurity, and I am now eager to fully transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-
-
+<div> 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Home Lab Setup</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Network Miner</a>|
 | Data Recovery with Hex Editor    | Data Recovery |
-
-
+</div>
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 

@@ -32,7 +32,7 @@ I have a deep a passion for cybersecurity, and I am now eager to fully transitio
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Kali_Linux-dark_blue?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-blue?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
 
 </div>
 

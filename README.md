@@ -27,13 +27,13 @@ I have a deep a passion for cybersecurity, and I am now eager to fully transitio
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-grey?&style=for-the-badge&logo=NMAP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NetworkMiner-purple?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network_Miner-purple?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-dark_blue?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+
 </div>
 
 ### SIEM

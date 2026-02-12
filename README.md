@@ -1,6 +1,6 @@
 
 # Hello, I'm Jordin!
-<a href="https://www.linkedin.com/in/jordin-moore777/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jordin-moore777/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 
 
 I am a recent cybersecurity graduate with a dedication to solving complex problems.

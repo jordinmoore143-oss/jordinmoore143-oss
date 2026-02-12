@@ -18,7 +18,9 @@ I have a deep a passion for cybersecurity, and I am now eager to fully transitio
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Network Miner</a>|
 | Data Recovery with Hex Editor    | Data Recovery |
 </div>
+
 ## Tools
+
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network

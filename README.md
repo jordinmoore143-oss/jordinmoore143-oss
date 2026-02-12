@@ -27,7 +27,7 @@ I have a deep a passion for cybersecurity, and I am now eager to fully transitio
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=NMAP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NetworkMiner-1679A7?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NetworkMiner-purple?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
 </div>
 
 ### Endpoint
